@@ -15,22 +15,22 @@ O projeto realizado pelos alunos do curso de Cência da Computação foi o desen
 
 ## 💻 Projetos Desenvolvidos: 
 
-- Grupo 1 - G1
+- Grupo 1 
   - Link do repositório: https://github.com/InteliProjects/2024-2A-T01-CC11-G01
   - https://github.com/Inteli-College/2024-2A-T01-CC11-G01
 
-- Grupo 2 - G2
+- Grupo 2 
   - Link do repositório: https://github.com/InteliProjects/2024-2A-T01-CC11-G02
   - https://github.com/Inteli-College/2024-2A-T01-CC11-G02
 
-- Grupo 3 - Deméter
+- Grupo 3 
   - Link do repositório: https://github.com/InteliProjects/2024-2A-T01-CC11-G03
   - https://github.com/Inteli-College/2024-2A-T01-CC11-G03
 
-- Grupo 4 - Greentch
+- Grupo 4 
   - Link do repositório: https://github.com/InteliProjects/2024-2A-T01-CC11-G04
   - https://github.com/Inteli-College/2024-2A-T01-CC11-G04
 
-- Grupo 5 - G5
+- Grupo 5 
   - Link do repositório: https://github.com/InteliProjects/2024-2A-T01-CC11-G05
   - https://github.com/Inteli-College/2024-2A-T01-CC11-G05
