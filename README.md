@@ -11,7 +11,7 @@
 
 
 ## 🎯 O objetivo:
-O projeto realizado pelos alunos do curso de Cência da Computação foi o desenvolvimento de um projeto baseado em Sistema de deep learning aplicado à visão computacional, com o objetivo de apresentar soluções inovadoras para os parceiros do projeto por meio do uso da tecnologia.
+Implementar um chatbot para otimizar e aumentar a capacidade de atendimento no SAC
 
 ## 💻 Projetos Desenvolvidos: 
 
